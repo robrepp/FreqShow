@@ -34,7 +34,7 @@ class FreqShowController(object):
         rtl_fm_process = None
         aplay_process = None
         demodulating = False
-        prev_center_freq = 90.3
+        prev_center_freq = 93.1
 
 	def __init__(self, model):
 		"""Initialize controller with specified FreqShow model."""
